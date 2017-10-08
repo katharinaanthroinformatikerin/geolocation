@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Katharina\Documents\5_Semester\MoAp\ViennaTransport\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\Katharina\Documents\5_Semester\MoAp\ViennaTransport\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_589ded2cd2036ab08b0b1b63be948c2f3fffc1f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Katharina\Documents\5_Semester\MoAp\ViennaTransport\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0d2660d22929e7da063e1a1c604c10107bba6b6">
+        <dex dex="C:\Users\Katharina\Documents\5_Semester\MoAp\ViennaTransport\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_bffc797b78d878012cffd077227f1ee01f8cefc3\classes.dex" />
+    </item>
+
+</items>
